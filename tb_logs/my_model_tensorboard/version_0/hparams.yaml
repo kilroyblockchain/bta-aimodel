@@ -1,0 +1,6 @@
+algorithm_name: Convolutional Neural Network
+batch_size: 64
+data_dir: ./data
+hidden_size: 64
+learning_rate: 2.0e-05
+total_epochs: 5

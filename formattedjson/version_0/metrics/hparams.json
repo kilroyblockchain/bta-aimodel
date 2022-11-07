@@ -1,0 +1,1 @@
+{"total_epochs": 5.0, "algorithm_name": "Convolutional Neural Network", "data_dir": "./data", "batch_size": 64.0, "learning_rate": 2e-05, "hidden_size": 64.0}
